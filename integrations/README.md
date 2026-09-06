@@ -19,6 +19,7 @@ supported agentic coding tools.
 - **[Codex](#codex)** — `.toml` custom agents in `codex/`
 - **[Mistral Vibe](vibe/README.md)** — `.toml` agents + prompt files generated in `vibe/`
 - **Osaurus** -- `SKILL.md` skills generated in `osaurus/`
+- **[Cline](cline/README.md)** — `SKILL.md` skills generated in `cline/`
 - **[Hermes](hermes/README.md)** -- lazy-router plugin generated in `hermes/`
 
 ## Quick Install
